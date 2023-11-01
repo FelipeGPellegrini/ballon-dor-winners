@@ -1,0 +1,28 @@
+.containerWinnerInfo {
+    font-family: 'Dosis', sans-serif;
+    color: goldenrod;
+    border: 1px solid goldenrod;
+    margin: 8px;
+    max-width: 600px;
+}
+
+.containerWinnerInfo h3 {
+    margin: 16px;
+    color: goldenrod;
+    text-decoration: underline;
+}
+
+.infos {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.personalInfos {
+    margin-left: 32px;
+}
+
+.personalInfos img {
+    margin:16px 0;
+    border-radius: 50%;
+}

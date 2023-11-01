@@ -1,0 +1,11 @@
+header {
+    font-family: 'Dosis', sans-serif;
+    text-align: center;
+    padding: 8px;
+    background-color: rgb(29, 29, 29);
+    color: goldenrod;
+}
+
+header > h2 {
+    font-size: 18px;
+}
