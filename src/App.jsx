@@ -2,14 +2,14 @@ import './App.css'
 
 // Components
 import Header from "./components/Header"
-import WinnerInfo from "./components/WinnerInfo"
+import WinnersPage from "./components/WinnersPage"
 
 function App() {
 
   return (
     <>
       <Header/>
-      <WinnerInfo/>
+      <WinnersPage/>
     </>
   )
 }
